@@ -1,1 +1,1 @@
-# career-helper-app
+# CareerNavigator
